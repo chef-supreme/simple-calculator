@@ -31,5 +31,7 @@ int main()
     else
         cout << " wrong input " << endl;
 
+//prime or not will be added later 
+
     return 0;
 }
